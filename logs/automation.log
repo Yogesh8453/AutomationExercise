@@ -1,0 +1,28 @@
+2024-08-06 12:37:25 DEBUG TestNG:82 - suiteXmlPath: "C:\Yogesh\Eclipse\MyFirstProject\testng.xml"
+2024-08-06 12:37:58 INFO  TC002_LoginUserValidData:17 - ****Clicking on Signup/Login Link****
+2024-08-06 12:38:01 INFO  TC002_LoginUserValidData:21 - ****Entering Email Id & Password****
+2024-08-06 12:38:01 INFO  TC002_LoginUserValidData:24 - ****Clicking on Sign In button****
+2024-08-06 12:38:04 INFO  TC002_LoginUserValidData:26 - ****Verifying Expected Result****
+2024-08-06 12:38:04 INFO  TC002_LoginUserValidData:33 - ****Test Passed****
+2024-08-06 12:38:04 INFO  TC002_LoginUserValidData:46 - ***** Finished TC002_LoginUserValidData*****
+2024-08-06 12:38:34 INFO  TC001_RegisterUserTest:16 - ***Clicking on the Login/SignUp***
+2024-08-06 12:38:36 INFO  TC001_RegisterUserTest:22 - ****Entering Email and UserName Details****
+2024-08-06 12:38:36 INFO  TC001_RegisterUserTest:25 - ****Clicking on Sign Up Button****
+2024-08-06 12:38:38 INFO  TC001_RegisterUserTest:30 - ****Validating Sign up Header****
+2024-08-06 12:38:38 INFO  TC001_RegisterUserTest:34 - ****Entering User Details****
+2024-08-06 12:38:41 INFO  TC001_RegisterUserTest:51 - ****Clicking on Create Account button****
+2024-08-06 12:38:42 INFO  TC001_RegisterUserTest:53 - ****Validating Account Created Message****
+2024-08-06 12:38:46 INFO  TC001_RegisterUserTest:59 - ****Clicking on Delete Account button****
+2024-08-06 12:38:47 INFO  TC001_RegisterUserTest:61 - ****Validating Account Deleted Message****
+2024-08-06 12:40:46 DEBUG TestNG:82 - suiteXmlPath: "C:\Yogesh\Eclipse\MyFirstProject\testng.xml"
+2024-08-06 12:41:16 INFO  TC002_LoginUserValidData:17 - ****Clicking on Signup/Login Link****
+2024-08-06 12:41:19 INFO  TC002_LoginUserValidData:21 - ****Entering Email Id & Password****
+2024-08-06 12:41:20 INFO  TC002_LoginUserValidData:24 - ****Clicking on Sign In button****
+2024-08-06 12:41:23 INFO  TC002_LoginUserValidData:26 - ****Verifying Expected Result****
+2024-08-06 12:41:23 INFO  TC002_LoginUserValidData:33 - ****Test Passed****
+2024-08-06 12:41:23 INFO  TC002_LoginUserValidData:46 - ***** Finished TC002_LoginUserValidData*****
+2024-08-06 12:41:53 INFO  TC001_RegisterUserTest:16 - ***Clicking on the Login/SignUp***
+2024-08-06 12:41:56 INFO  TC001_RegisterUserTest:22 - ****Entering Email and UserName Details****
+2024-08-06 12:41:56 INFO  TC001_RegisterUserTest:25 - ****Clicking on Sign Up Button****
+2024-08-06 12:41:58 INFO  TC001_RegisterUserTest:30 - ****Validating Sign up Header****
+2024-08-06 12:41:58 INFO  TC001_RegisterUserTest:34 - ****Entering User Details****
