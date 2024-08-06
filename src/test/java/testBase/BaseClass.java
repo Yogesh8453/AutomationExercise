@@ -42,10 +42,10 @@ public class BaseClass {
 		
 		File crxfile = new File(System.getProperty("user.dir")+ "\\CRX Files\\AdBlock-—-block-ads-across-the-web-Chrome-Web-Store.crx");
 		
-		ChromeOptions options = new ChromeOptions(); 
-		options.addExtensions(crxfile);
-		EdgeOptions Edgeoptions = new EdgeOptions(); 
-		Edgeoptions.addExtensions(crxfile);
+	//	ChromeOptions options = new ChromeOptions(); 
+	//	options.addExtensions(crxfile);
+	//	EdgeOptions Edgeoptions = new EdgeOptions(); 
+	//	Edgeoptions.addExtensions(crxfile);
 		
 		logger = LogManager.getLogger(this.getClass()); // lOG4J2
 	//	driver = new ChromeDriver(options);
@@ -94,8 +94,8 @@ public class BaseClass {
 
 			switch(br.toLowerCase())
 			{
-			case "chrome" : driver=new ChromeDriver(options); break;
-			case "edge" : driver=new EdgeDriver(Edgeoptions); break;
+			case "chrome" : driver=new ChromeDriver(); break;
+			case "edge" : driver=new EdgeDriver(); break;
 			case "firefox": driver=new FirefoxDriver(); break;
 			default : System.out.println("Invalid browser name.."); return;
 			}
